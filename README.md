@@ -1,104 +1,206 @@
-![Build Status](https://gitlab.com/pages/gitbook/badges/master/build.svg)
+# “开源软件供应链点亮计划-暑期2020” 热点问题
 
----
+<!-- TOC -->
 
-Example [GitBook] website using GitLab Pages.
+- [“开源软件供应链点亮计划-暑期2020” 热点问题](#开源软件供应链点亮计划-暑期2020-热点问题)
+    - [简介](#简介)
+    - [问题清单](#问题清单)
+        - [1. 开源软件供应链点亮计划是什么？](#1-开源软件供应链点亮计划是什么)
+        - [2. “开源软件供应链点亮计划-暑期2020” 是什么？](#2-开源软件供应链点亮计划-暑期2020-是什么)
+        - [2. 活动的主要参与方有哪些？](#2-活动的主要参与方有哪些)
+        - [3. 哪些社区可以报名参与？](#3-哪些社区可以报名参与)
+        - [4. 社区如何报名？](#4-社区如何报名)
+        - [5. 支持社区什么类型的项目？](#5-支持社区什么类型的项目)
+        - [6. 项目的奖金额度是多少，如何确定？](#6-项目的奖金额度是多少如何确定)
+        - [7. 社区报名参加活动后需要做哪些事情？](#7-社区报名参加活动后需要做哪些事情)
+        - [8. 社区的参与流程是怎样的？](#8-社区的参与流程是怎样的)
+        - [9. 社区导师的参与流程是怎样的？](#9-社区导师的参与流程是怎样的)
+        - [10. 如何成为合作单位？](#10-如何成为合作单位)
+        - [11. 合作单位如何报名？](#11-合作单位如何报名)
+        - [12. 合作单位需要做什么？](#12-合作单位需要做什么)
+        - [13. 面向哪些学生？](#13-面向哪些学生)
+        - [14. 学生如何报名？](#14-学生如何报名)
+        - [15. 是否支持团体报名？](#15-是否支持团体报名)
+        - [16. 学生的参与流程是怎样的？](#16-学生的参与流程是怎样的)
 
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
+<!-- /TOC -->
 
----
+## 简介
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+本文档用于汇总在“开源软件供应链点亮计划-暑期2020”（简称：“点亮计划”）相关活动中的问题，形成 Q&A，供参与的人员参考。
 
-- [GitLab CI](#gitlab-ci)
-- [Building locally](#building-locally)
-- [GitLab User or Group Pages](#gitlab-user-or-group-pages)
-- [Did you fork this project?](#did-you-fork-this-project)
-- [Troubleshooting](#troubleshooting)
+## 问题清单
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+### 1. 开源软件供应链点亮计划是什么？
 
-## GitLab CI
+“开源软件供应链点亮计划” 是由中国科学院软件研究所发起并长期支持一项活动，旨在解决基础开源软件面临的许可、质量、维护和技术支持等问题，进而影响整个软件产业的供应链。鼓励更多的开发者参与这些开源软件，促进开源软件在国内的发展，增加开源项目在国内的活跃度，在开源领域与世界接轨。具体工作包括：
 
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
+1. 培养吸引优秀人才，与国内研究机构、高校、开源社区进行合作，鼓励研究人员、开源爱好者、在校师生参与开源软件的开发与维护。
 
-```yaml
-# requiring the environment of NodeJS 8.9.x LTS (carbon)
-image: node:8.9
+2. 积极促进国内优秀开源软件社区建设，推动国内软件人才积极参与开源软件社区中，逐步提高开源软件维护的可靠性和持续性。
 
-# add 'node_modules' to cache for speeding up builds
-cache:
-  paths:
-    - node_modules/ # Node modules and dependencies
+3. 加强对软件供应链涉及的各个流程和关键环节的监管，加强软件安全审核和软件安全性检测，有效防范软件供应链安全威胁。
 
-before_script:
-  - npm install gitbook-cli -g # install gitbook
-  - gitbook fetch latest # fetch latest stable version
-  - gitbook install # add any requested plugins in book.json
-  #- gitbook fetch pre # fetch latest pre-release version
-  #- gitbook fetch 2.6.7 # fetch specific version
+4. 剔除开源软件中存在的知识产权不可控风险的部分，寻找相应替代品或自主开发，建立可控的供应链。
 
-# the 'pages' job will deploy and build your site to the 'public' path
-pages:
-  stage: deploy
-  script:
-    - gitbook build . public # build to public path
-  artifacts:
-    paths:
-      - public
-  only:
-    - master # this job will affect only the 'master' branch
-```
+5. 制定符合国内政策、国际惯例的开源软件供应链的标准、规范。
 
-## Building locally
+### 2. “开源软件供应链点亮计划-暑期2020” 是什么？
 
-To work locally with this project, you'll have to follow the steps below:
+“开源软件供应链点亮计划-暑期2020”（以下简称 暑期2020）是由中科院软件所与 openEuler 社区共同举办的一项面向高校学生的暑期活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进国内优秀开源软件社区的蓬勃发展。我们将联合各大开源社区，针对重要开源软件的开发与维护提供 mini 项目，并向全国高校学生开放报名。学生可自主选择感兴趣的项目进行申请，并在中选后获得该软件资深维护者（社区导师）亲自指导的机会。根据项目的难易程度和完成情况，参与者还可获取“开源软件供应链点亮计划-暑期2020”活动奖杯和奖金。
 
-1. Fork, clone or download this project
-1. [Install][] GitBook `npm install gitbook-cli -g`
-1. Fetch GitBook's latest stable version `gitbook fetch latest`
-1. Preview your project: `gitbook serve`
-1. Add content
-1. Generate the website: `gitbook build` (optional)
-1. Push your changes to the master branch: `git push`
+### 2. 活动的主要参与方有哪些？
 
-Read more at GitBook's [documentation][].
+活动组织方：中国科学院软件研究所、openEuler 社区主办，中国科学院软件研究所中国科学院软件研究所南京软件技术研究院，华为技术有限公司、中科软科技股份有限公司、深圳华锐金融技术股份有限公司等公司协办，此外，活动组组委会还联合国内公司、科研院所和各大高校共同推广此次活动。
 
-## GitLab User or Group Pages
+活动参与方主要角色为学生、社区和社区导师。
 
-To use this project as your user/group website, you will need one additional
-step: just rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings**.
+- 学生：学生自由选择项目，与社区导师沟通实现方案并撰写项目计划书。被选中的学生将在社区导师指导下，按计划完成开发工作，并将成果贡献给社区。社区评估学生的完成度，主办方根据评估结果发放资助金额给学生。
+- 社区：社区提供项目列表和描述，并安排项目对应的导师，导师与申请者沟通方案、并从申请者中选中一位承接项目。在为期三个月的开发周期中，导师指导学生进行对应项目的开发工作。
+- 导师：社区针对每一个项目指定一个社区导师，与学生一起制定合适的开发计划和方案，指导学生按计划完成开发。
 
-Read more about [user/group Pages][userpages] and [project Pages][projpages].
+### 3. 哪些社区可以报名参与？
 
-## Did you fork this project?
+本次活动是开放的，只要是开源社区中的软件仓库是以 OSI 组织认证的开源协议开放的，都是本活动支持的范围。
 
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
+对于专注于推广开源的开源组织，欢迎与我们联系沟通如何推广本次开源活动以及后续的合作。
 
-## Troubleshooting
+### 4. 社区如何报名？
 
-1. CSS is missing! That means two things:
+请根据 [**社区报名模板**](模板/社区报名模板.md) 填写社区相关信息，发送到邮箱 summer2020@iscas.ac.cn，主办方会与社区对接，讨论后续具体合作事宜。
 
-    Either that you have wrongly set up the CSS URL in your templates, or
-    your static generator has a configuration option that needs to be explicitly
-    set in order to serve static assets under a relative URL.
+### 5. 支持社区什么类型的项目？
 
-----
+“暑期2020” 活动优先支持开发类项目，同时兼顾各类有利于社区发展的项目，例如，技术文档汉化等，支持的非开发类项目总占比不会超过 20%。
 
-Forked from @virtuacreative
+### 6. 项目的奖金额度是多少，如何确定？
 
-[ci]: https://about.gitlab.com/gitlab-ci/
-[GitBook]: https://www.gitbook.com/
-[host the book]: https://gitlab.com/pages/gitbook/tree/pages
-[install]: http://toolchain.gitbook.com/setup.html
-[documentation]: http://toolchain.gitbook.com
-[userpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#user-or-group-pages
-[projpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#project-pages
+- 项目难度分为高、中、低三档，对应税前奖金分别为高（12000 元）、中（9000 元）、低（6000 元）。
+- 难度分级由社区根据项目任务自行决定。
+- 主办方会资助最终有学生申请的项目，在预算范围内主办方会尽可能的支持更多的项目，预期是 200+ 的项目。
+- 我们会根据社区反馈的情况，提供少量更大奖金的项目。
+
+### 7. 社区报名参加活动后需要做哪些事情？
+
+1. 社区应在社区官网（或项目对外公开仓库） 上线 “暑期2020” 页面（HTML、Wiki 等方式不限），内容包括本社区/项目组提供的所有项目任务详情清单，项目任务详情应参考 [**社区项目模板**](模板/社区项目模板.md) 提供预估开发工作量是 3 个月的项目任务信息及其对应的参考材料。；
+2. 社区在上线 “暑期2020” 页面后应告知主办方其页面地址，主办方在活动官网（<https://isrc.iscas.ac.cn/summer2020>）会上线社区介绍信息，并提供链接跳转到该社区的活动说明页面；所有项目列表会同步在活动官网提供列表，但以社区页面上的项目详细信息为准。
+3. 社区针对每个项目需要指定一名社区导师，一般应是该项目相关的开发者（maintainer、commitor、contributor），负责：
+   - 按项目模板提供项目任务详情信息
+   - 与该项目的潜在申请者沟通、审核该项目的申请并确认最终中选学生
+   - 对学生在开发过程中遇到的问题给与帮助
+   - 对学生开发成果进行评定
+
+### 8. 社区的参与流程是怎样的？
+
+1. 4 月 25 日 - 5 月 14 日
+
+   - 按照 [**社区报名模板**](模板/社区报名模板.md)，填写并提交报名申请；
+   - 向平台提供参与本次活动的公共页面，按照 [**社区项目模板**](模板/社区项目模板.md) ，提供项目信息。
+
+2. 5 月 15 日 - 5 月 29 日
+
+   - 社区可以继续添加项目；
+   - 社区更新项目列表后要即时告知主办方更新活动主页的项目信息。
+
+3. 6 月 16 日 - 6 月 30 日
+
+   - 接收主办方推送的项目申请书，组织评审；
+   - 提交最终选定的方案列表及学生信息（每个项目只能选定**一个**方案）；
+   - 若出现某些选定方案无法正常实现等问题（如学生因多个项目申请通过，而必须放弃该项目方案），需要重新选择方案。
+
+4. 8 月 15 日 - 8 月 31 日
+
+   - 协助主办方完成中期考核；
+   - 按照评审结果模板，提交中期评审结果。
+
+5. 10 月 1 日 - 10 月 21 日
+
+   - 协助主办方完成最终考核；
+   - 按照评审结果模板，提交最终评审结果；
+   - 基于最终审核结果确定最终发放的奖金和证书；
+   - 提交下一次暑期活动的计划（可选）。
+
+### 9. 社区导师的参与流程是怎样的？
+
+1. 5 月 15 日 - 6 月 15 日
+
+   - 接收学生项目相关的咨询邮件，并解答问题，指导学生理解项目，完善方案。
+
+2. 6 月 16 日 - 6 月 30 日
+
+   - 参与学生方案评审，并最终选定一个方案。
+
+3. 7 月 1 日 - 9 月 30 日
+
+   - 基于主办方提供的项目平台以及邮件等其他沟通方式，对学生进行一对一指导，指导该学生完成任务；
+   - 参与中期考核。
+
+4. 10 月 1 日 - 10 月 21 日
+
+   - 参与最终考核。
+
+### 10. 如何成为合作单位？
+
+只要是支持本次开源活动，会帮助推广宣传此次活动，无论是公司、科研院所、高校或其他组织，我们都欢迎成为我们的合作伙伴，一起推进此次活动。也希望能建立长期的合作关系来促进国内开源生态的发展。
+
+### 11. 合作单位如何报名？
+
+请将以下信息发送到邮箱 summer2020@iscas.ac.cn，主办方会安排人专门与合作单位对接，讨论后续具体合作事宜。
+
+- 合作单位名称：
+- 联系人姓名：
+- 联系电话：
+
+### 12. 合作单位需要做什么？
+
+1. 在合作单位的网站、公众号、朋友圈、微信群 基于活动官方文案(网站: isrc.iscas.ac.cn/summer2020，公众号：ISCAS_ISRC)宣传推广本活动，鼓励并吸引更多人参与开源活动中。
+2. 其他推广本次活动的事项。
+
+### 13. 面向哪些学生？
+
+只要是国内满 18 周岁在校学生，无论是什么专业，都欢迎加入。
+
+### 14. 学生如何报名？
+
+2020 年 5 月 15 日活动正式开始，社区的项目列表也会公布。学生针对感兴趣的社区提供的项目，可以开始与指定的社区导师联系沟通项目细节和方案，完善项目计划和方案。
+
+学生的报名申请是 2020 年 6 月 1 日开始，6 月 15 日截止。6 月 15 日之前都可以报名。
+
+具体报名方法会在 5 月 15 日公布。
+
+### 15. 是否支持团体报名？
+
+除了少量更大奖金的项目支持团体报名外，一般项目都只支持一个学生报名。
+
+### 16. 学生的参与流程是怎样的？
+
+    **流程中所有涉及 “提交” 的步骤，均指发送邮件至 `summer2020@iscas.ac.cn`**
+
+1. 5 月 15 日 - 5 月 31 日
+
+   - 登录 summer2020 活动主页，浏览社区及项目信息；
+   - 挑选感兴趣的任务，与导师进行邮件沟通，熟悉并了解相关项目；
+   - 设计项目解决方案。
+
+2. 6 月 1 日 - 6 月 15 日
+
+   - 在导师的指导下，完善项目解决方案；
+   - 按照项目申请模板，填写并提交申请；
+   - 可以向多个项目提交申请，但最终一个学生只能有一个项目入选。
+
+3. 6 月 16 日 - 6 月 30 日
+
+   - 等待方案评审结果；
+   - 若项目申请通过审核，平台会为学生分配相应 Gitlab 仓库，供学生保存代码；
+   - 学生可提前进入方案实现阶段；
+   - 若有多个方案被不同项目选中，则学生只能选择一个项目进行实施。
+
+4. 7 月 1 日 - 9 月 30 日
+
+   - 正式开始实现方案，应首先在本地配置 GPG 签名，并确保重要提交使用数字签名（建议至少最终向社区提交时要使用签名，也可以每次提交都使用签名），便于平台进行成果验证；
+   - 8 月 15 日前，按照中期报告模板，提交中期报告；中期通过后会收到 50% 的资助金，未通过则中止项目。
+   - 9 月 30 日前，按照最终报告模板，提交最终成果。
+
+5. 10 月 1 日 - 10 月 22 日
+
+   - 等待最终评审结果。
