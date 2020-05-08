@@ -6,6 +6,6 @@
 * [学生指南](student.md)
 * [社区指南](community.md)
 * [导师指南](mentor.md)
-* [合作推广](promotion.md)
+* [合作推广](cooperation.md)
 * [资源](resources.md)
 * [联系我们](contactus.md)
