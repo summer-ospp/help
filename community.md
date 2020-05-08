@@ -9,12 +9,15 @@
     - [项目的奖金额度是多少，如何确定？](#项目的奖金额度是多少如何确定)
     - [社区报名参加活动后需要做哪些事情？](#社区报名参加活动后需要做哪些事情)
     - [社区的参与日程](#社区的参与日程)
+    - [ODI 组织认证的推荐的开放知识协议](#odi-组织认证的推荐的开放知识协议)
 
 <!-- /TOC -->
 
 ## 哪些社区可以报名参与？
 
 本次活动是开放的，只要是开源社区中的仓库是采用 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或者 [ODI 组织认证的推荐的开放知识协议](https://opendefinition.org/licenses/) 等开放共享的，都是本活动支持的范围。
+
+本次活动支持的 ODI 组织认证的推荐的协议列表请参考：[ODI 组织认证的推荐的开放知识协议](#odi-组织认证的推荐的开放知识协议)。
 
 对于专注于推广开源的开源社区，欢迎与组委会联系沟通如何推广本次开源活动以及后续的合作。
 
@@ -71,3 +74,14 @@
    - 按照评审结果模板，提交最终评审结果；
    - 基于最终审核结果确定最终发放的奖金和证书；
    - 提交下一次暑期活动的计划（可选）。
+
+## ODI 组织认证的推荐的开放知识协议
+
+本次活动接受采用以下开放知识协议的项目：
+
+- [Creative Commons CCZero (CC0)](https://opendefinition.org/licenses/cc-zero)
+- [Open Data Commons Public Domain Dedication and Licence (PDDL)](https://opendefinition.org/licenses/odc-pddl)
+- [Creative Commons Attribution 4.0 (CC-BY-4.0)](https://opendefinition.org/licenses/cc-by)
+- [Open Data Commons Attribution License (ODC-BY)](https://opendefinition.org/licenses/odc-by)
+- [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA-4.0)](https://opendefinition.org/licenses/cc-by-sa)
+- [Open Data Commons Open Database License (ODbL)](https://opendefinition.org/licenses/odc-odbl)
