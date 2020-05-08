@@ -13,6 +13,8 @@
 
 <!-- /TOC -->
 
+社区参与活动之前请阅读：[组织参与协议](./assets/community-rules.txt)
+
 ## 哪些社区可以报名参与？
 
 本次活动是开放的，只要是开源社区中的仓库是采用 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或者 [ODI 组织认证的推荐的开放知识协议](https://opendefinition.org/licenses/) 等开放共享的，都是本活动支持的范围。
