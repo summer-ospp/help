@@ -8,7 +8,7 @@
 
 公众号：ISCAS_ISRC -> 活动专栏 -> 暑期2020
 
-![讨论群](./images/group.jpg)
+![微信号](./assets/gongzhonghao.jpg)
 
 ## 组委会官网电子邮箱
 
@@ -18,4 +18,4 @@
 
 ## 微信讨论群
 
-![讨论群](./images/group.jpg)
+![讨论群](./assets/group.jpg)
