@@ -10,7 +10,7 @@
 
 <!-- /TOC -->
 
-导师参与活动之前请阅读：[导师参与协议](./assets/mentor-rules.txt)
+导师参与活动之前请阅读：[导师参与协议](https://isrc.iscas.ac.cn/summer2020/help/assets/mentor-rules.txt)
 
 ## 如何成为导师
 

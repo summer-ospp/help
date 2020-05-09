@@ -21,7 +21,7 @@
 
 <!-- /TOC -->
 
-学生参与活动之前请阅读：[学生参与协议](./assets/student-rules.txt)
+学生参与活动之前请阅读：[学生参与协议](https://isrc.iscas.ac.cn/summer2020/help/assets/student-rules.txt)
 
 ## 面向哪些学生
 

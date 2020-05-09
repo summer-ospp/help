@@ -15,7 +15,7 @@
 
 <!-- /TOC -->
 
-社区参与活动之前请阅读：[组织参与协议](./assets/community-rules.txt)
+社区参与活动之前请阅读：[组织参与协议](https://isrc.iscas.ac.cn/summer2020/help/assets/community-rules.txt)
 
 ## 哪些社区可以报名参与
 
