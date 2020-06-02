@@ -9,5 +9,13 @@
 			 "暑期2020 主页": "https://isrc.iscas.ac.cn/summer2020/"
 	 	}
 	 },
-	 "plugins": ["-sharing"]
+	 "plugins": [
+		 "-sharing",
+		 "baidu-v3"
+	 ],
+	 "pluginsConfig": {
+		 "baidu": {
+		   "token": "aa0274c9bdb79c3265b983c89d1cef83"
+		 }
+	 }
 }
