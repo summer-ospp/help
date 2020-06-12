@@ -13,6 +13,8 @@ before_script:
 
 test:
   stage: test
+  tags:
+    - internal
   script:
     - gitbook build . public # build to public path
   only:
@@ -23,6 +25,8 @@ test:
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
   stage: deploy
+  tags:
+    - internal
   script:
     - gitbook build . public # build to public path
   artifacts:
