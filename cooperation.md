@@ -23,5 +23,5 @@
 
 ## 合作单位需要做什么
 
-1. 在合作单位的网站、公众号、朋友圈、微信群 基于活动官方公告(网站: [https://summer.iscas.ac.cn](https://isrc.iscas.ac.cn/summer2020)。
+1. 在合作单位的网站、公众号、朋友圈、微信群 基于活动官网信息宣传活动，活动官网：[https://summer.iscas.ac.cn](https://summer.iscas.ac.cn)。
 2. 其他推广本次活动的事项。
