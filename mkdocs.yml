@@ -1,4 +1,6 @@
-site_name: 暑期 2021 活动 - 参与指南
+site_name: 暑期 2021 活动 - 指南
+site_dir: public
+
 theme:
   name: material
   language: 'zh'
