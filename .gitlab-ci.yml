@@ -1,37 +1,24 @@
-# requiring the environment of NodeJS 10
-image: node:10
-
-# add 'node_modules' to cache for speeding up builds
-cache:
-  paths:
-    - node_modules/ # Node modules and dependencies
+image: python:3.8-buster
 
 before_script:
-  - npm install gitbook-cli -g # install gitbook
-  - gitbook fetch 3.2.3 # fetch final stable version
-  - gitbook install # add any requested plugins in book.json
+  - pip install -r requirements.txt
 
 test:
   stage: test
-  tags:
-    - internal
   script:
-    - gitbook build . public # build to public path
-  only:
-    - branches # this job will affect every branch except 'master'
-  except:
-    - master
-    
-# the 'pages' job will deploy and build your site to the 'public' path
-pages:
-  stage: deploy
-  tags:
-    - internal
-  script:
-    - gitbook build . public # build to public path
+  - mkdocs build --strict --verbose --site-dir test
   artifacts:
     paths:
-      - public
-    expire_in: 1 week
+    - test
+  except:
+  - master
+
+pages:
+  stage: deploy
+  script:
+  - mkdocs build --strict --verbose
+  artifacts:
+    paths:
+    - public
   only:
-    - master # this job will affect only the 'master' branch
+  - master

@@ -1,0 +1,23 @@
+site_name: 暑期 2021 活动 - 参与指南
+theme:
+  name: material
+  language: 'zh'
+  features:
+    - navigation.expand
+
+plugins:
+    - search:
+        lang: ja
+
+nav:
+  - 热点问题: index.md
+  - 活动角色: roles.md
+  - 活动日程: timeline.md
+  - 学生指南:
+    - 常见问题: student.md
+    - 项目申请建议: proj_apply.md
+  - 社区指南: community.md
+  - 导师指南: mentor.md
+  - 合作推广: cooperation.md
+  - 联系我们: contactus.md
+  - 感谢: thanks.md
