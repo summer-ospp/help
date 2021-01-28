@@ -1,4 +1,4 @@
-site_name: 暑期 2021 活动 - 指南
+site_name: 帮助 | 开源软件供应链点亮计划 - 暑期 2021
 site_dir: public
 
 theme:
@@ -22,4 +22,4 @@ nav:
   - 导师指南: mentor.md
   - 合作推广: cooperation.md
   - 联系我们: contactus.md
-  - 感谢: thanks.md
+  - 感谢: acknowledgements.md
