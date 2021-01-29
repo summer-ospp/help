@@ -12,6 +12,8 @@ theme:
     - navigation.expand
   icon:
     repo: fontawesome/solid/link
+  logo: assets/logo.svg
+  favicon: assets/favicon.jpg
 
 extra:
   social:
