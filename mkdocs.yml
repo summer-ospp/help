@@ -1,15 +1,30 @@
 site_name: 帮助 | 开源软件供应链点亮计划 - 暑期 2021
 site_dir: public
+repo_url: https://summer.iscas.ac.cn/help/en/
+repo_name: English Version
+
+copyright: Copyright &copy; 2020 - 2021 开源软件供应链点亮计划 - 暑期 2021 活动组委会
 
 theme:
   name: material
   language: 'zh'
   features:
     - navigation.expand
+  icon:
+    repo: fontawesome/solid/link
+
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:summer@iscas.ac.cn
+
+extra_javascript:
+    - 'js/tongji.js'
 
 plugins:
-    - search:
-        lang: ja
+  - git-revision-date
+  - search:
+      lang: ja
 
 nav:
   - 热点问题: index.md
