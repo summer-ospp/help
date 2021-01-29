@@ -15,7 +15,7 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/solid/paper-plane
+    - icon: fontawesome/solid/envelope
       link: mailto:summer@iscas.ac.cn
 
 extra_javascript:
