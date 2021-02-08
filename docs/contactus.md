@@ -31,6 +31,6 @@
 
 #### 组委会邮件列表：[summer-ospp-committee@googlegroups.com](mailto:summer-ospp-committee@googlegroups.com)
 
-- 用于讨论活动规则及活动组织等事宜的沟通讨论，任何人都可发、可查看、可订阅。
-- 订阅邮件列表：发送邮件至 [summer-ospp-committee+subscribe@googlegroups.com](mailto:summer-ospp-committee+subscribe@googlegroups.com)，收到反馈邮件后回复确认订阅即可。
-- 进入讨论组：<https://groups.google.com/g/summer-ospp-committee>
+- 用于组委会反馈渠道，以及组委会工作讨论活动规则及活动组织等事宜的沟通讨论，任何人都可发。
+- 订阅邮件列表：仅限被邀请人员
+- 进入讨论组（仅限成员）：<https://groups.google.com/g/summer-ospp-committee>

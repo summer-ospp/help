@@ -2,9 +2,9 @@
 
 ## 哪些社区可以报名参与
 
-本次活动是开放的，只要是开源社区中的仓库是采用 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或者 [ODI 组织认证的推荐的开放知识协议](https://opendefinition.org/licenses/) 等开放共享的，都是本活动支持的范围。
+本次活动是开放的，只要是开源社区中的仓库是采用 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或者 [推荐的开放知识协议](#推荐的开放知识协议) 等开放共享的，都是本活动支持的范围。
 
-本次活动支持的 ODI 组织认证的推荐的协议列表请参考：[ODI 组织认证的推荐的开放知识协议](#odi-组织认证的推荐的开放知识协议)。
+本次活动支持的开放知识协议列表请参考：[推荐的开放知识协议](#推荐的开放知识协议)。
 
 对于专注于推广开源的开源社区，欢迎与组委会联系沟通如何推广本次开源活动以及后续的合作。
 
@@ -12,15 +12,19 @@
 
 请根据 [**社区报名模板**](./assets/社区报名模板.txt) 填写社区相关信息，发送到邮箱 `summer@iscas.ac.cn`，主办方会与社区对接，讨论后续具体合作事宜。
 
+## 是否接收采用的开源协议不在 OSI 列表中的开源项目
+
+是的，只要是开放的、共享的开源项目，都在组委会的考虑范围内。我们理解 OSI 列表也是动态的，有些协议也是在审核中。对于更多的开放的、共享的协议，组委会持有开放态度。但也请理解组委会需要更多的时间针对采用不在 OSI 列表的协议的开源项目进行评估和审核。
+
 ## 支持社区什么类型的项目
 
-“暑期2021” 活动优先支持开发类项目，同时兼顾各类有利于社区发展的项目，例如，技术文档汉化等知识类的开源项目，支持的非开发类项目总占比不会超过 20%。非开发类开源项目需要采用[ODI 组织认证的推荐的开放知识协议](#odi-组织认证的推荐的开放知识协议)。
+“暑期2021” 活动优先支持开发类项目，同时兼顾各类有利于社区发展的项目，例如，技术文档汉化等知识类的开源项目，支持的非开发类项目总占比不会超过 20%。非开发类开源项目如果要得到支持需要采用[推荐的开放知识协议](#推荐的开放知识协议)。
 
 ## 社区是否可以提出面向上游开源软件仓库的开发项目
 
 可以提出，但要符合以下条件：
 
-1. 上游开源软件仓库的协议应属于 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或 [ODI 组织认证的推荐的开放知识协议](#odi-组织认证的推荐的开放知识协议)。
+1. 上游开源软件仓库的协议应属于 [OSI 组织认证的开源协议](https://opensource.org/licenses) 或 [推荐的开放知识协议](#推荐的开放知识协议)。
 2. 社区指定的导师有能力指导学生完成对应项目的开发工作，比如导师本身是上游社区的活跃开发者。
 
 ## 项目的奖金额度是多少
@@ -46,7 +50,7 @@
 资助项目的一般要求：
 
 1. 开发类项目对应的开源软件采用的是[OSI 组织认证的开源协议](https://opensource.org/licenses)
-2. 开放知识类项目对应的仓库采用的是[ODI 组织认证的推荐的开放知识协议](https://opendefinition.org/licenses/)，具体列表参考：[ODI 组织认证的推荐的开放知识协议](#odi-组织认证的推荐的开放知识协议)
+2. 开放知识类项目对应的仓库采用的是[推荐的开放知识协议](#推荐的开放知识协议)，具体列表参考：[推荐的开放知识协议](#推荐的开放知识协议)
 
 组委会在官网公布最终支持的项目名单和学生名单。
 
@@ -64,16 +68,16 @@
 - 低：奖金人民币 6000 元
   - 目标：能力相当于大三、大四计算机专业的学生
 
-## ODI 组织认证的推荐的开放知识协议
+## 推荐的开放知识协议
 
 本次活动接受采用以下开放知识协议的项目：
 
-- [Creative Commons CCZero (CC0)](https://opendefinition.org/licenses/cc-zero)
-- [Open Data Commons Public Domain Dedication and Licence (PDDL)](https://opendefinition.org/licenses/odc-pddl)
-- [Creative Commons Attribution 4.0 (CC-BY-4.0)](https://opendefinition.org/licenses/cc-by)
-- [Open Data Commons Attribution License (ODC-BY)](https://opendefinition.org/licenses/odc-by)
-- [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA-4.0)](https://opendefinition.org/licenses/cc-by-sa)
-- [Open Data Commons Open Database License (ODbL)](https://opendefinition.org/licenses/odc-odbl)
+- [Creative Commons CCZero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
+- [Creative Commons Attribution 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
+- [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA-4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Open Data Commons Public Domain Dedication and Licence (PDDL)](https://opendatacommons.org/licenses/pddl/)
+- [Open Data Commons Attribution License (ODC-BY)](https://opendatacommons.org/licenses/by/)
+- [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/)
 
 ## 主办方声明
 
