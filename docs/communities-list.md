@@ -4,9 +4,13 @@
 
 此列表在报名截止（2021 年 4 月 30 日）之前会持续更新。
 
-| 序号 | 社区中文名称 | 社区英文名称 | 社区官网 | 报名状态 |
-| ---- | ------------ | ------------ | -------- | -------- |
-| 001  |              |              |          |          |
+| 序号 |英文名称 | 中文名称 | 社区官网 | 报名状态 |
+| ---- | ------------ | ----------- | -------- | -------- |
+| 001  |  Apache DolphinScheduler   | Apache DolphinScheduler | [link](https://dolphinscheduler.apache.org/)          | 审核通过 |
+| 002  |  Apache ShardingSphere     | Apache ShardingSphere   | [link](http://shardingsphere.apache.org/index_zh.html) | 审核通过 |
+| 003  |  ChubaoFS                  | ChubaoFS                | [link](https://github.com/chubaofs/chubaofs)           | 审核通过 |
+| 004  |  MegEngine                 | 天元                     | [link](https://megengine.org.cn/)                      | 审核通过 |
+| 005  |  RT-Thread                 | RT-Thread               | [link](https://www.rt-thread.org/)                     | 审核通过 |
 
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核。
 
