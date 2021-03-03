@@ -3,8 +3,6 @@ name: deploy
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   release:
@@ -23,6 +21,14 @@ jobs:
       run: |
         pip install -r requirements.txt
         mkdocs build --strict --verbose
+
+    - name: Artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: main-artifact
+        path: |
+          public
+
     - name: Deploy
       uses: summer-ospp/infra-ci-s3-sync@master
       with:
