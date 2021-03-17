@@ -26,7 +26,8 @@
 | 018  | Jenkins Chinese Community | Jenkins 中文社区       | [link](https://jenkins-zh.cn/)                         | 审核通过 |
 | 019  | openEuler Community     | openEuler 社区          | [link](https://openeuler.org/)                         | 审核通过  |
 | 020  | The Debian Project      | The Debian Project      | [link](https://www.debian.org)                         | 审核通过  |
-| ...  | ...                     | ...                     | ...                                                    | ...      |
+| 021  | cskefu               | 春松客服                 | [link](https://github.com/chatopera/cskefu)            | 审核通过  |
+| 022  | ...                     | ...                     | ...                                                    | ...      |
 
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
