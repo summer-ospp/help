@@ -31,6 +31,7 @@
 | 023  | Curve                   | Curve社区                | [link](https://www.opencurve.io/)                      | 审核通过    |
 | 024  | Bookos                  | Bookos社区               | [link]( https://www.book-os.org)                       | 审核通过    |
 | 025  | WebCell                 | WebCell                 | [link](https://web-cell.dev/)                           | 审核通过    |
+| 026  | PiFlow                  |大数据流水线系统 PiFlow 社区  | [link](https://github.com/cas-bigdatalab/piflow)     | 审核通过    |
 | 026  | ...                     | ...                     | ...                                                     | ...      |
 
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
