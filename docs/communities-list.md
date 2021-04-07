@@ -31,7 +31,13 @@
 | 023  | Bookos                  | Bookos社区               | [link]( https://www.book-os.org)                       | 审核通过    |
 | 024  | WebCell                 | WebCell                 | [link](https://web-cell.dev/)                           | 审核通过    |
 | 025  | PiFlow                  |大数据流水线系统 PiFlow 社区  | [link](https://github.com/cas-bigdatalab/piflow)     | 审核通过    |
-| 026  | ...                     | ...                     | ...                                                     | ...      |
+| 026  | Wechaty                 | Wechaty 社区              | [link](https://wechaty.js.org/)                        | 审核通过    |
+| 027  | Kaiyuanshe              | 开源社                    | [link](https://kaiyuanshe.cn/)                         | 审核通过    |
+| 028  | Nebula Graph            | Nebula Graph              | [link](https://nebula-graph.io)                        | 审核通过    |
+| 029  | Tiny Lab                | 泰晓科技                   | [link](http://tinylab.org)                             | 审核通过    |
+| 030  | Anthon Open Source Community   | 安同开源社区        | [link](https://nebula-graph.io)                        | 审核通过    |
+| 031  | Nebula Graph            | Nebula Graph              | [link](https://nebula-graph.io)                        | 审核通过    |
+| 032  | ...                     | ...                     | ...                                                     | ...      |
 
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
