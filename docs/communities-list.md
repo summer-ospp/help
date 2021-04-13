@@ -43,7 +43,7 @@
 | 035  | Milvus                 | Milvus          | [link](https://www.milvus.io/cn/)                        | 审核通过    |
 | 036  | Volcano                 | Volcano          | [link](https://volcano.sh/zh/)                        | 审核通过    |
 | 037  | Apache ECharts                 | Apache ECharts 社区          | [link](https://echarts.apache.org)                        | 审核通过    |
-| 038  | Apache CarbonData                 | Apache CarbonData          | [link](carbondata.apache.org)                        | 审核通过    |
+| 038  | Apache CarbonData                 | Apache CarbonData          | [link](https://carbondata.apache.org)                        | 审核通过    |
 | 039  | ...                     | ...                     | ...                                                     | ...      |
 
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
