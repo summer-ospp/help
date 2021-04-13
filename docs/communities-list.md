@@ -35,17 +35,24 @@
 | 027  | Kaiyuanshe              | 开源社                    | [link](https://kaiyuanshe.cn/)                         | 审核通过    |
 | 028  | Nebula Graph            | Nebula Graph              | [link](https://nebula-graph.io)                        | 审核通过    |
 | 029  | Tiny Lab                | 泰晓科技                   | [link](http://tinylab.org)                             | 审核通过    |
-| 030  | Anthon Open Source Community   | 安同开源社区        | [link](https://aosc.io)                        | 审核通过    |
+| 030  | Anthon Open Source Community   | 安同开源社区        | [link](https://aosc.io)                              | 审核通过    |
 | 031  | GoodERP                 | GoodERP开源俱乐部          | [link](https://gooderp.org)                        | 审核通过    |
-| 032  | EduOJ                 | EduOJ          | [link](https://github.com/EduOJ)                        | 审核通过    |
-| 033  | OneFlow                 | OneFlow          | [link](https://github.com/Oneflow-Inc)                        | 审核通过    |
-| 034  | China PostgreSQL association             | 中国开源软件推进联盟PostgreSQL分会       | [link](https://www.postgresqlchina.com/)               | 审核通过    |
-| 035  | Milvus                 | Milvus          | [link](https://www.milvus.io/cn/)                        | 审核通过    |
-| 036  | Volcano                 | Volcano          | [link](https://volcano.sh/zh/)                        | 审核通过    |
-| 037  | Apache ECharts                 | Apache ECharts 社区          | [link](https://echarts.apache.org)                        | 审核通过    |
-| 038  | Apache CarbonData                 | Apache CarbonData          | [link](https://carbondata.apache.org)                        | 审核通过    |
-| 039  | ...                     | ...                     | ...                                                     | ...      |
+| 032  | EduOJ                   | EduOJ                    | [link](https://github.com/EduOJ)                     | 审核通过    |
+| 033  | OneFlow                 | OneFlow                   | [link](https://github.com/Oneflow-Inc)              | 审核通过    |
+| 034  | 中国开源软件推进联盟PostgreSQL分会| 中国开源软件推进联盟PostgreSQL分会| [link](https://www.postgresqlchina.com/)   | 审核通过    |
+| 035  | Milvus                  | Milvus                        | [link](https://www.milvus.io/)                   | 审核通过    |
+| 036  | Volcano                 | Volcano                      | [link](https://volcano.sh/zh/)                   | 审核通过    |
+| 037  | Apache ECharts          | Apache ECharts               | [link](https://echarts.apache.org)                   | 审核通过    |
+| 038  | Apache CarbonData       | Apache CarbonData            | [link](http://carbondata.apache.org/)                | 审核通过    |
 
+
+
+
+
+
+
+
+ 
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
 ## 如果发了邮件后没有收到回复邮件，该如何处理
