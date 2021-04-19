@@ -18,12 +18,38 @@
 | 010  | Apache APISIX           | Apache APISIX           | [link](https://apisix.apache.org/)                     | 审核通过 |
 | 011  | Apache IoTDB            | Apache IoTDB            | [link](http://iotdb.apache.org/)                       | 审核通过 |
 | 012  | Simple-XX               | Simple-XX               | [link](https://github.com/Simple-XX)                   | 审核通过 |
-| 013  |                         | 清华大学 TUNA 协会      | [link](https://tuna.moe/)                              | 审核通过 |
+| 013  | Tsinghua University TUNA Association| 清华大学 TUNA 协会      | [link](https://tuna.moe/)                   | 审核通过 |
 | 014  | OI Wiki                 | OI Wiki                 | [link](https://oi-wiki.org)                            | 审核通过 |
 | 015  | openLooKeng             | openLooKeng             | [link](https://openlookeng.io/)                        | 审核通过 |
 | 016  | openGauss               | openGauss               | [link](https://opengauss.org)                          | 审核通过 |
-| 017  | ZStack                  | ZStack                  | [link](https://www.zstack.io/)                         | 审核通过 |
-| ...  | ...                     | ...                     | ...                                                    | ...      |
+| 017  | ZStack Cloud            | ZStack Cloud 平台       | [link](https://www.zstack.io/)                          | 审核通过 |
+| 018  | Jenkins Chinese Community | Jenkins 中文社区       | [link](https://jenkins-zh.cn/)                         | 审核通过 |
+| 019  | openEuler Community     | openEuler 社区          | [link](https://openeuler.org/)                          | 审核通过  |
+| 020  | The Debian Project      | The Debian Project      | [link](https://www.debian.org)                         | 审核通过  |
+| 021  | KubeSphere Community    | KubeSphere 开源社区      | [link](https://kubesphere.io/)                         |审核通过   |
+| 022  | Curve                   | Curve社区                | [link](https://www.opencurve.io/)                      | 审核通过    |
+| 023  | Bookos                  | Bookos社区               | [link]( https://www.book-os.org)                       | 审核通过    |
+| 024  | WebCell                 | WebCell                 | [link](https://web-cell.dev/)                           | 审核通过    |
+| 025  | PiFlow                  |大数据流水线系统 PiFlow 社区  | [link](https://github.com/cas-bigdatalab/piflow)     | 审核通过    |
+| 026  | Wechaty                 | Wechaty 社区              | [link](https://wechaty.js.org/)                        | 审核通过    |
+| 027  | Kaiyuanshe              | 开源社                    | [link](https://kaiyuanshe.cn/)                         | 审核通过    |
+| 028  | Nebula Graph            | Nebula Graph              | [link](https://nebula-graph.io)                        | 审核通过    |
+| 029  | Tiny Lab                | 泰晓科技                   | [link](http://tinylab.org)                             | 审核通过    |
+| 030  | Anthon Open Source Community   | 安同开源社区        | [link](https://aosc.io)                        | 审核通过    |
+| 031  | GoodERP                 | GoodERP开源俱乐部          | [link](https://gooderp.org)                        | 审核通过    |
+| 032  | EduOJ                 | EduOJ          | [link](https://github.com/EduOJ)                        | 审核通过    |
+| 033  | OneFlow                 | OneFlow          | [link](https://github.com/Oneflow-Inc)                        | 审核通过    |
+| 034  | China PostgreSQL association             | 中国开源软件推进联盟PostgreSQL分会       | [link](https://www.postgresqlchina.com/)               | 审核通过    |
+| 035  | Milvus                 | Milvus          | [link](https://www.milvus.io/cn/)                        | 审核通过    |
+| 036  | Volcano                 | Volcano          | [link](https://volcano.sh/zh/)                        | 审核通过    |
+| 037  | Apache ECharts                 | Apache ECharts 社区          | [link](https://echarts.apache.org)                        | 审核通过    |
+| 038  | Apache CarbonData                 | Apache CarbonData          | [link](https://carbondata.apache.org)                        | 审核通过    |
+| 039  | dubbo-go                | dubbo-go 社区                | [link](https://github.com/apache/dubbo-go)            | 审核通过    |
+| 040  | TDengine                | TDengine                 | [link](https://www.taosdata.com/)                     | 审核通过    |
+| 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | 审核通过    |
+| 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | 审核通过    |
+| 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | 审核通过    |
+| 044 | ...                     | ...                     | ...                                                     | ...      |
 
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 

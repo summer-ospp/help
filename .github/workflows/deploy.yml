@@ -1,0 +1,77 @@
+name: deploy
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  release:
+    name: Deploy product to OBS and refresh CDN
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Environment 
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8 
+
+    - name: Build
+      run: |
+        pip install -r requirements.txt
+        mkdocs build --strict --verbose
+
+    - name: Artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: main-artifact
+        path: |
+          public
+
+    - name: Deploy-ExcludeTXT
+      uses: summer-ospp/infra-ci-s3-sync@master 
+      with:
+        args: --acl public-read --follow-symlinks --exclude '*.txt'
+      env:
+        AWS_S3_BUCKET: ${{ secrets.HELP_BUCKET }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.HELP_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HELP_SECRET_ACCESS_KEY }}
+        AWS_S3_ENDPOINT: ${{ secrets.HELP_ENDPOINT }}
+        SOURCE_DIR: 'public'
+        DEST_DIR: 'help'
+  
+  
+    - name: Deploy-IncludeTXT
+      uses: summer-ospp/infra-ci-s3-sync@master
+      with:
+        args: --acl public-read --follow-symlinks --exclude '*' --include '*.txt' --content-type 'text/plain;charset=UTF-8'
+      env:
+        AWS_S3_BUCKET: ${{ secrets.HELP_BUCKET }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.HELP_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HELP_SECRET_ACCESS_KEY }}
+        AWS_S3_ENDPOINT: ${{ secrets.HELP_ENDPOINT }}
+        SOURCE_DIR: 'public'
+        DEST_DIR: 'help'
+
+    - name: Refresh
+      uses: summer-ospp/infra-ci-cdn-refresh@main
+      env:
+        CDN_AK: ${{ secrets.HELP_CDN_AK }}
+        CDN_SK: ${{ secrets.HELP_CDN_SK }}
+        CDN_REFRESH_URLS: ${{ secrets.HELP_CDN_REFRESH_URLS }}
+        CDN_REFRESH_TYPE: ${{ secrets.HELP_CDN_REFRESH_TYPE }}
+
+    - name: Sleep
+      run: |
+        sleep 300
+    - name: Preheat
+      uses: summer-ospp/infra-ci-cdn-preheat@main
+      env:
+        CDN_AK: ${{ secrets.HELP_CDN_AK }}
+        CDN_SK: ${{ secrets.HELP_CDN_SK }}
+        CDN_URLS: ${{ secrets.HELP_CDN_URLS }}
+        OBS_AK: ${{ secrets.HELP_ACCESS_KEY_ID }}
+        OBS_SK: ${{ secrets.HELP_SECRET_ACCESS_KEY }}
+        OBS_SERVER: ${{ secrets.HELP_ENDPOINT }}
+        OBS_BUCKET: ${{ secrets.HELP_BUCKET }}
