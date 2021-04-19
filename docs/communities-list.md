@@ -49,7 +49,11 @@
 | 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | 审核通过    |
 | 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | 审核通过    |
 | 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)    | 审核通过    |
-| 044 | ...                     | ...                     | ...                                                     | ...      |
+| 044  | DoKit               | dDoKit 社区                | [link](https://www.dokit.cn/   )            | 审核通过    |
+| 045 | Julia                | Julia 中文社区              | [link](https://discourse.juliacn.com/ )                     | 审核通过    |
+| 046  | Hypertrons      | Hypertrons                   | [link](https://hypertrons.io)                   | 审核通过    |
+| 047  | MaskNetwork              | MaskNetwork            | [link](https://mask.io)    | 审核通过    |
+| 048 | ...                     | ...                     | ...                                                     | ...      |
 
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
