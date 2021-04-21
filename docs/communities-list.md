@@ -47,10 +47,10 @@
 | 039  | dubbo-go                | dubbo-go 社区                | [link](https://github.com/apache/dubbo-go)            | 审核通过    |
 | 040  | TDengine                | TDengine                 | [link](https://www.taosdata.com/)                     | 审核通过    |
 | 041  | Ubuntu Kylin            | 优麒麟                    | [link](https://www.ubuntukylin.com)                   | 审核通过    |
-| 042  | CodenameOne             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | 审核通过    |
+| 042  | Codename One             | Codename One             | [link](https://github.com/codenameone/CodenameOne)    | 审核通过    |
 | 043  | SofaStack Community     | SOFAStack 社区            | [link](https://sofastack.tech/)                  | 审核通过    |
 | 044  | CHAOSS           |CHAOSS社区               |[link](https://chaoss.community/)                          | 审核通过    |
-| 045  | DoKit               | dDoKit 社区                | [link](https://www.dokit.cn/)            | 审核通过    |
+| 045  | DoKit               | DoKit 社区                | [link](https://www.dokit.cn/)            | 审核通过    |
 | 046  | Julia                | Julia 中文社区              | [link](https://discourse.juliacn.com/)                      | 审核通过    |
 | 047  | Hypertrons      | Hypertrons                   | [link](https://hypertrons.io)                   | 审核通过    |
 | 048  | MaskNetwork              | MaskNetwork            | [link](https://mask.io)    | 审核通过    |
