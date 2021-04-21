@@ -8,9 +8,9 @@
 
 ## 学生如何报名
 
-- [暑期2021 报名系统](https://portal.summer-ospp.ac.cn/summer/login)已正式上线，即日起社区可于系统内进行活动报名及项目发布。
+- [暑期2021 报名系统](https://portal.summer-ospp.ac.cn/summer/login) 已正式上线，即日起社区可于系统内进行活动报名及项目发布。
 
-  - 请点击查看 [报名系统使用指南（学生）](https://github.com/summer-ospp/help/blob/main/docs/assets/%E5%AD%A6%E7%94%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E4%BE%9B%E5%BA%94%E9%93%BE%E7%82%B9%E4%BA%AE%E8%AE%A1%E5%88%92%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.pdf)
+  - 请点击查看 [报名系统使用指南（学生）](https://summer.iscas.ac.cn/help/assets/%E5%AD%A6%E7%94%9F%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E4%BE%9B%E5%BA%94%E9%93%BE%E7%82%B9%E4%BA%AE%E8%AE%A1%E5%88%92%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.pdf)
 
 - 活动官方沟通渠道：summer@iscas.ac.cn。
 
