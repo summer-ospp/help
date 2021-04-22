@@ -54,8 +54,12 @@
 | 046  | Julia                | Julia 中文社区              | [link](https://discourse.juliacn.com/)                      | 审核通过    |
 | 047  | Hypertrons      | Hypertrons                   | [link](https://hypertrons.io)                   | 审核通过    |
 | 048  | MaskNetwork              | MaskNetwork            | [link](https://mask.io)    | 审核通过    |
-| 049  | ...              | ...                | ...                          | ...                                                |
-
+| 049  | Universal OJ               | Universal OJ 开源社区                | [link]( https://github.com/UniversalOJ   )            | 审核通过    |
+| 050  | DatenLord                | DatenLord              | [link]( https://datenlord.io  )                    | 审核通过   |
+| 051  | HybridOS      | 合璧操作系统                   | [link]( https://hybridos.fmsoft.cn/)                   | 审核通过    |
+| 052  | USTCLUG              | 中科大学生 Linux 用户协会            | [link]( https://lug.ustc.edu.cn/)    | 审核通过    |
+| 053  | ArkID               | ArkID 开源社区                | [link]( https://www.longguikeji.com/product/arkid   )            | 审核通过    |
+| 054  | ...               | ...                | ...         | ...    |
 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
 ## 如果发了邮件后没有收到回复邮件，该如何处理
