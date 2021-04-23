@@ -59,7 +59,8 @@
 | 051  | HybridOS      | 合璧操作系统                   | [link]( https://hybridos.fmsoft.cn/)                   | 审核通过    |
 | 052  | USTCLUG              | 中科大学生 Linux 用户协会            | [link]( https://lug.ustc.edu.cn/)    | 审核通过    |
 | 053  | ArkID               | ArkID 开源社区                | [link]( https://www.longguikeji.com/product/arkid   )            | 审核通过    |
-| 054  | ...               | ...                | ...         | ...    |
+| 054  | GitCourse               | GitCourse                | [link]( http://gitcourse-io.kfcoding.com/   )            | 审核通过    |
+| 055  | ...               | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
