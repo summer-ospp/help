@@ -65,7 +65,8 @@
 | 057  | xmake                   | xmake 技术社区                 | [link](   https://xmake.io   )                                 | 审核通过    |
 | 058  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | 审核通过   |
 | 059  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | 审核通过    |
-| 060  | ...                     | ...                | ...         | ...    |
+| 060  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                   | 审核通过    |
+| 061  | ...                     | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
