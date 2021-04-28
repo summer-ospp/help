@@ -15,6 +15,8 @@ test:
 
 pages:
   stage: deploy
+  tags:
+  - docker
   script:
   - mkdocs build --strict --verbose
   artifacts:
