@@ -62,12 +62,13 @@
 | 054  | GitCourse               | GitCourse                      | [link]( http://gitcourse-io.kfcoding.com/   )                 | 审核通过    |
 | 055  | Senparc Developer Community          | 盛派开发者社区     | [link]( https://dev.senparc.com/)                             | 审核通过    |
 | 056  | Linuxkerneltravel       | Linux内核之旅                   | [link]( http://kerneltravel.net/ )                            | 审核通过    |
-| 057  | AOS                     | AOS                            | [link](  https://aos.dev/docs   )                             | 审核通过    |
-| 058  | xmake                   | xmake 技术社区                 | [link](   https://xmake.io   )                                 | 审核通过    |
-| 059  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | 审核通过   |
-| 060  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | 审核通过    |
-| 061  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                   | 审核通过    |
-| 062  | ...                     | ...                | ...         | ...    |
+| 057  | yunionio                | yunionio                        | [link](  https://github.com/yunionio )                       | 审核通过    |
+| 058  | AOS                     | AOS                            | [link](  https://aos.dev/docs   )                             | 审核通过    |
+| 059  | xmake                   | xmake 技术社区                 | [link](   https://xmake.io   )                                 | 审核通过    |
+| 060  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | 审核通过   |
+| 061  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | 审核通过    |
+| 062  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                              | 审核通过    |
+| 063  | ...                     | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
