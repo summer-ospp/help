@@ -68,7 +68,8 @@
 | 060  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | 审核通过   |
 | 061  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | 审核通过    |
 | 062  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                              | 审核通过    |
-| 063  | ...                     | ...                | ...         | ...    |
+| 063  | MindSpore               | MindSpore                       | [link]( https://www.mindspore.cn)                             | 审核通过    |
+| 064  | ...                     | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
