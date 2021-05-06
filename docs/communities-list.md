@@ -69,6 +69,11 @@
 | 061  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | 审核通过    |
 | 062  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                              | 审核通过    |
 | 063  | MindSpore               | MindSpore                       | [link]( https://www.mindspore.cn)                             | 审核通过    |
+| 064  | rCORE OS                | rCORE OS                        | [link]( https://github.com/rcore-os/)                         | 审核通过    |
+| 065  | RIOS Lab                | RIOS Lab                        | [link]( https://rioslab.org)                                  | 审核通过    |
+| 066  | OpenMessaging           | OpenMessaging                   | [link]( http://openmessaging.cloud/)                          | 审核通过    |
+| 067  | Apache EventMesh(Incubating)    | Apache EventMesh(Incubating)社区       | [link]( https://eventmesh.apache.org)          | 审核通过    |
+| 068  | Sentinel                | Sentinel                        | [link]( https://sentinelguard.io)                             | 审核通过    |
 | 064  | ...                     | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
