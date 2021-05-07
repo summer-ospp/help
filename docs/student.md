@@ -78,7 +78,7 @@
 ##### 准备项目申请材料
 
 - 请在[报名系统](https://portal.summer-ospp.ac.cn/summer/login)中注册账号并填写个人资料。
-- 请查看[项目申请模板](https://summer.iscas.ac.cn/help/assets/项目申请模板)并根据要求准备相关材料。
+- 请查看[项目申请模板](./assets/项目申请模板.pdf)并根据要求准备相关材料。
 
 
 
