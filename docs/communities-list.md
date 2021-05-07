@@ -74,7 +74,10 @@
 | 066  | OpenMessaging           | OpenMessaging                   | [link]( http://openmessaging.cloud/)                          | 审核通过    |
 | 067  | Apache EventMesh(Incubating)    | Apache EventMesh(Incubating)社区       | [link]( https://eventmesh.apache.org)          | 审核通过    |
 | 068  | Sentinel                | Sentinel                        | [link]( https://sentinelguard.io)                             | 审核通过    |
-| 069  | ...                     | ...                | ...         | ...    |
+| 069  | KubeEdge                | KubeEdge                        | [link]( kubeedge.io)                                          | 审核通过    |
+| 070  | Apache Local Community Beijing      | Apache Local Community Beijing       | [link](   https://alc-beijing.github.io/alc-site/)       | 审核通过    |
+| 071  | OpenDigger              | OpenDigger                      | [link](   https://github.com/X-lab2017/open-digger)           | 审核通过    |
+| 072  | ...                     | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
