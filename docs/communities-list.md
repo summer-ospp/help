@@ -84,7 +84,8 @@
 | 076  | Arthas                  | Arthas                          | [link]( https://arthas.aliyun.com/en-us/)                      | 审核通过    |
 | 077  | OpenKruise              | OpenKruise                      | [link]( https://github.com/openkruise/kruise)                  | 审核通过    |
 | 078  | Apache Dubbo            | Apache Dubbo                    | [link]( https://dubbo.apache.org/zh/)                          | 审核通过    |
-| 079  | ...                     | ...                | ...         | ...    |
+| 079  | Apollo                  | Apollo                          | [link]( https://www.apolloconfig.com/#/)                       | 审核通过    |
+| 080  | ...                     | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
