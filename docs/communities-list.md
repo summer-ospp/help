@@ -91,8 +91,8 @@
 | 083  | Vineyard                | Vineyard                        | [link]( https://v6d.io)                                        | 审核通过    |
 | 084  | Wine                    | Wine                            | [link]( https://www.winehq.org)                                | 审核通过    |
 | 085  | MaxKey                  | MaxKey社区                       | [link]( https://maxkeytop.gitee.io/)                           | 审核通过    |
-| 086  | ROS                     | ROS                             | [link]( http://ros.org/)                                        | 审核通过    |
-| 087  | TensorBase              | TensorBase                      | [link]( https://github.com/tensorbase/tensorbase)               | 审核通过 |
+| 086  | ROS                     | ROS                             | [link]( https://ros.org/)                                       | 审核通过    |
+| 087  | TensorBase              | TensorBase                      | [link]( https://github.com/tensorbase/tensorbase)               | 审核通过    |
 | 088  | ...                     | ...                | ...         | ...    |
 
 
