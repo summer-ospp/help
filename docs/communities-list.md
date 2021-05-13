@@ -88,7 +88,11 @@
 | 080  | Nacos                   | Nacos                           | [link]( https://nacos.io/en-us/)                               | 审核通过    |
 | 081  | Project C               | Project C                       | [link]( https://gitlab.com/alfredchen/projectc)                | 审核通过    |
 | 082  | JustAuth                | JustAuth                        | [link]( https://justauth.wiki)                                 | 审核通过    |
-| 083  | ...                     | ...                | ...         | ...    |
+| 083  | Vineyard                | Vineyard                        | [link]( https://v6d.io)                                        | 审核通过    |
+| 084  | Wine                    | Wine                            | [link]( https://www.winehq.org)                                | 审核通过    |
+| 085  | MaxKey                  | MaxKey社区                       | [link]( https://maxkeytop.gitee.io/)                           | 审核通过    |
+| 086  | ROS                     | ROS                             | [link]( http://ros.org/)                                        | 审核通过    |
+| 087  | ...                     | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
