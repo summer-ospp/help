@@ -80,12 +80,15 @@
 | 072  | LCUI                    | LCUI                            | [link]( https://lcui.lc-soft.io)                               | 审核通过    |
 | 073  | Dragonfly               | Dragonfly                       | [link]( https://d7y.io/en-us/)                                 | 审核通过    |
 | 074  | Apache RocketMQ         | Apache RocketMQ 社区            | [link]( https://rocketmq.apache.org/)                          | 审核通过    |
-| 075  | Serverless Devs         | Serverless Devs                | [link]( http://www.serverless-devs.com/#/home)                  | 审核通过    |
+| 075  | Serverless Devs         | Serverless Devs                 | [link]( http://www.serverless-devs.com/#/home)                  | 审核通过    |
 | 076  | Arthas                  | Arthas                          | [link]( https://arthas.aliyun.com/en-us/)                      | 审核通过    |
 | 077  | OpenKruise              | OpenKruise                      | [link]( https://github.com/openkruise/kruise)                  | 审核通过    |
 | 078  | Apache Dubbo            | Apache Dubbo                    | [link]( https://dubbo.apache.org/zh/)                          | 审核通过    |
 | 079  | Apollo                  | Apollo                          | [link]( https://www.apolloconfig.com/#/)                       | 审核通过    |
-| 080  | ...                     | ...                | ...         | ...    |
+| 080  | Nacos                   | Nacos                           | [link]( https://nacos.io/en-us/)                               | 审核通过    |
+| 081  | Project C               | Project C                       | [link]( https://gitlab.com/alfredchen/projectc)                | 审核通过    |
+| 082  | JustAuth                | JustAuth                        | [link]( https://justauth.wiki)                                 | 审核通过    |
+| 083  | ...                     | ...                | ...         | ...    |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
