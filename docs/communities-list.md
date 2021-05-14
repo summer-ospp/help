@@ -100,7 +100,9 @@
 | 092  | KubeVela                | KubeVela                        | [link]( https://kubevela.io)                                     | 审核通过    |
 | 093  | mica                    | mica                            | [link]( https://wiki.dreamlu.net)                                | 审核通过    |
 | 094  | The Turing Way          | The Turing Way                  | [link]( https://github.com/alan-turing-institute/the-turing-way)  | 审核通过    |
-| 095  | ...                     | ...                | ...         | ...    |
+| 095  | OpenYurt                | OpenYurt                        | [link]( https://github.com/openyurtio/openyurt)                   | 审核通过    |
+| 096  | LibreOffice             | LibreOffice                     | [link]( https://www.libreoffice.org/)                             | 审核通过    |
+| 097  | ...                     | ...                | ...         | ...    |
 
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
