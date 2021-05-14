@@ -93,7 +93,14 @@
 | 085  | MaxKey                  | MaxKey社区                       | [link]( https://maxkeytop.gitee.io/)                           | 审核通过    |
 | 086  | ROS                     | ROS                             | [link]( https://ros.org/)                                       | 审核通过    |
 | 087  | TensorBase              | TensorBase                      | [link]( https://github.com/tensorbase/tensorbase)               | 审核通过    |
-| 088  | ...                     | ...                | ...         | ...    |
+| 088  | Joomla!                 | Joomla!                         | [link]( https://www.joomla.org/)                                | 审核通过    |
+| 089  | NGINX                   | NGINX开源社区                    | [link]( https://www.nginx.org.cn/)                              | 审核通过    |
+| 090  | ChaosBlade              | ChaosBlade                      | [link]( https://chaosblade.io/)                                  | 审核通过    |
+| 091  | NoneBot                 | NoneBot                         | [link]( https://github.com/nonebot)                              | 审核通过    |
+| 092  | KubeVela                | KubeVela                        | [link]( https://kubevela.io)                                     | 审核通过    |
+| 093  | mica                    | mica                            | [link]( https://wiki.dreamlu.net)                                | 审核通过    |
+| 094  | The Turing Way          | The Turing Way                  | [link]( https://github.com/alan-turing-institute/the-turing-way)  | 审核通过    |
+| 095  | ...                     | ...                | ...         | ...    |
 
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
