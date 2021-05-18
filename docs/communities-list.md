@@ -105,7 +105,8 @@
 | 097  | openSUSE                | openSUSE                        | [link]( https://www.opensuse.org/)                                | 审核通过    |
 | 098  | SIMD Everywhere         | SIMD Everywhere                 | [link]( https://github.com/simd-everywhere/simde)                 | 审核通过    |
 | 099  | Seata                   | Seata                           | [link]( https://seata.io/zh-cn/)                                  | 审核通过    |
-| 100  | ...                     | ...                | ...         | ...    |
+| 100  | OpenMS                  | OpenMS                          | [link]( https://www.openms.org)                                           | 审核通过    |
+| 100  | ...                     | ...                             | ...              | ...    |
 
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
