@@ -111,6 +111,7 @@
 | 103  | Mars                    | Mars                            | [link]( https://docs.pymars.org/en/latest/)                       | 审核通过    |
 | 104  | Rocket Booster          | Rocket Booster                  | [link]( https://booster.js.org)                                   | 审核通过    |
 | 105  | Sureness                | Sureness社区                    | [link]( https://su.usthe.com/)                                     | 审核通过    |
+| 106  | DTP                     | DTP                             | [link]( https://star-tsinghua.github.io/DTP/)                      | 审核通过    |
 | 106  | ...                     | ...                             | ...              | ...    |
 
 
