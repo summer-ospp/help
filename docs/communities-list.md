@@ -109,7 +109,9 @@
 | 101  | Toro unikernel          | Toro unikernel                  | [link]( https://www.torokernel.io)                                | 审核通过    |
 | 102  | OPEN AI LAB             | OPEN AI LAB                     | [link]( https://www.openailab.com)                                | 审核通过    |
 | 103  | Mars                    | Mars                            | [link]( https://docs.pymars.org/en/latest/)                       | 审核通过    |
-| 104  | ...                     | ...                             | ...              | ...    |
+| 104  | Rocket Booster          | Rocket Booster                  | [link]( https://booster.js.org)                                   | 审核通过    |
+| 105  | Sureness                | Sureness社区                    | [link]( https://su.usthe.com/)                                     | 审核通过    |
+| 106  | ...                     | ...                             | ...              | ...    |
 
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
