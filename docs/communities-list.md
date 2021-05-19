@@ -106,8 +106,10 @@
 | 098  | SIMD Everywhere         | SIMD Everywhere                 | [link]( https://github.com/simd-everywhere/simde)                 | 审核通过    |
 | 099  | Seata                   | Seata                           | [link]( https://seata.io/zh-cn/)                                  | 审核通过    |
 | 100  | OpenMS                  | OpenMS                          | [link]( https://www.openms.org)                                   | 审核通过    |
-| 101  | Toro unikernel          | Toro unikernel                  | [link]( http://www.torokernel.io)                                 | 审核通过    |
-| 102  | ...                     | ...                             | ...              | ...    |
+| 101  | Toro unikernel          | Toro unikernel                  | [link]( https://www.torokernel.io)                                | 审核通过    |
+| 102  | OPEN AI LAB             | OPEN AI LAB                     | [link]( https://www.openailab.com)                                | 审核通过    |
+| 103  | Mars                    | Mars                            | [link]( https://docs.pymars.org/en/latest/)                       | 审核通过    |
+| 104  | ...                     | ...                             | ...              | ...    |
 
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
