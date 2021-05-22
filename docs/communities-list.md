@@ -68,7 +68,54 @@
 | 060  | TesterHome              | TesterHome                     | [link]( https://testerhome.com/ )                              | 审核通过   |
 | 061  | GraphScope              | GraphScope                    | [link]( https://graphscope.io)                                  | 审核通过    |
 | 062  | zentao                  | 禅道项目管理软件                 | [link]( https://www.zentao.net/)                              | 审核通过    |
-| 063  | ...                     | ...                | ...         | ...    |
+| 063  | MindSpore               | MindSpore                       | [link]( https://www.mindspore.cn)                             | 审核通过    |
+| 064  | rCORE OS                | rCORE OS                        | [link]( https://github.com/rcore-os/)                         | 审核通过    |
+| 065  | RIOS Lab                | RIOS Lab                        | [link]( https://rioslab.org)                                  | 审核通过    |
+| 066  | OpenMessaging           | OpenMessaging                   | [link]( http://openmessaging.cloud/)                          | 审核通过    |
+| 067  | Apache EventMesh(Incubating)    | Apache EventMesh(Incubating)社区       | [link]( https://eventmesh.apache.org)          | 审核通过    |
+| 068  | Sentinel                | Sentinel                        | [link]( https://sentinelguard.io)                             | 审核通过    |
+| 069  | KubeEdge                | KubeEdge                        | [link]( https://kubeedge.io)                                  | 审核通过    |
+| 070  | Apache Local Community Beijing      | Apache Local Community Beijing   | [link](https://alc-beijing.github.io/alc-site/)   | 审核通过    |
+| 071  | OpenDigger              | OpenDigger                      | [link](https://github.com/X-lab2017/open-digger)               | 审核通过    |
+| 072  | LCUI                    | LCUI                            | [link]( https://lcui.lc-soft.io)                               | 审核通过    |
+| 073  | Dragonfly               | Dragonfly                       | [link]( https://d7y.io/en-us/)                                 | 审核通过    |
+| 074  | Apache RocketMQ         | Apache RocketMQ 社区            | [link]( https://rocketmq.apache.org/)                          | 审核通过    |
+| 075  | Serverless Devs         | Serverless Devs                 | [link]( http://www.serverless-devs.com/#/home)                  | 审核通过    |
+| 076  | Arthas                  | Arthas                          | [link]( https://arthas.aliyun.com/en-us/)                      | 审核通过    |
+| 077  | OpenKruise              | OpenKruise                      | [link]( https://github.com/openkruise/kruise)                  | 审核通过    |
+| 078  | Apache Dubbo            | Apache Dubbo                    | [link]( https://dubbo.apache.org/zh/)                          | 审核通过    |
+| 079  | Apollo                  | Apollo                          | [link]( https://www.apolloconfig.com/#/)                       | 审核通过    |
+| 080  | Nacos                   | Nacos                           | [link]( https://nacos.io/en-us/)                               | 审核通过    |
+| 081  | Project C               | Project C                       | [link]( https://gitlab.com/alfredchen/projectc)                | 审核通过    |
+| 082  | JustAuth                | JustAuth                        | [link]( https://justauth.wiki)                                 | 审核通过    |
+| 083  | Vineyard                | Vineyard                        | [link]( https://v6d.io)                                        | 审核通过    |
+| 084  | Wine                    | Wine                            | [link]( https://www.winehq.org)                                | 审核通过    |
+| 085  | MaxKey                  | MaxKey社区                       | [link]( https://maxkeytop.gitee.io/)                           | 审核通过    |
+| 086  | ROS                     | ROS                             | [link]( https://ros.org/)                                       | 审核通过    |
+| 087  | TensorBase              | TensorBase                      | [link]( https://github.com/tensorbase/tensorbase)               | 审核通过    |
+| 088  | Joomla!                 | Joomla!                         | [link]( https://www.joomla.org/)                                | 审核通过    |
+| 089  | NGINX                   | NGINX开源社区                    | [link]( https://www.nginx.org.cn/)                              | 审核通过    |
+| 090  | ChaosBlade              | ChaosBlade                      | [link]( https://chaosblade.io/)                                  | 审核通过    |
+| 091  | NoneBot                 | NoneBot                         | [link]( https://github.com/nonebot)                              | 审核通过    |
+| 092  | KubeVela                | KubeVela                        | [link]( https://kubevela.io)                                     | 审核通过    |
+| 093  | mica                    | mica                            | [link]( https://wiki.dreamlu.net)                                | 审核通过    |
+| 094  | The Turing Way          | The Turing Way                  | [link]( https://github.com/alan-turing-institute/the-turing-way)  | 审核通过    |
+| 095  | OpenYurt                | OpenYurt                        | [link]( https://github.com/openyurtio/openyurt)                   | 审核通过    |
+| 096  | LibreOffice             | LibreOffice                     | [link]( https://www.libreoffice.org/)                             | 审核通过    |
+| 097  | openSUSE                | openSUSE                        | [link]( https://www.opensuse.org/)                                | 审核通过    |
+| 098  | SIMD Everywhere         | SIMD Everywhere                 | [link]( https://github.com/simd-everywhere/simde)                 | 审核通过    |
+| 099  | Seata                   | Seata                           | [link]( https://seata.io/zh-cn/)                                  | 审核通过    |
+| 100  | OpenMS                  | OpenMS                          | [link]( https://www.openms.org)                                   | 审核通过    |
+| 101  | Toro unikernel          | Toro unikernel                  | [link]( https://www.torokernel.io)                                | 审核通过    |
+| 102  | OPEN AI LAB             | OPEN AI LAB                     | [link]( https://www.openailab.com)                                | 审核通过    |
+| 103  | Mars                    | Mars                            | [link]( https://docs.pymars.org/en/latest/)                       | 审核通过    |
+| 104  | Rocket Booster          | Rocket Booster                  | [link]( https://booster.js.org)                                   | 审核通过    |
+| 105  | Sureness                | Sureness社区                    | [link]( https://su.usthe.com/)                                     | 审核通过    |
+| 106  | DTP                     | DTP                             | [link]( https://star-tsinghua.github.io/DTP/)                      | 审核通过    |
+| 107  | Spring Cloud Alibaba    | Spring Cloud Alibaba            | [link]( https://github.com/alibaba/spring-cloud-alibaba)           | 审核通过    |
+| 108  | OpenCT                  | 北京师范大学 OpenCT 社区         | [link]( https://open-ct.com/landing)                               | 审核通过    |
+| 109  | KubeDL                  | KubeDL                          | [link]( https://kubedl.io/)                                        | 审核通过    |
+
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，一般情况下在每周一组委会例会后更新一次。
 
