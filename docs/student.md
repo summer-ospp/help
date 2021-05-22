@@ -1,6 +1,8 @@
 # 学生指南
 
-学生参与活动之前请阅读：[学生参与协议](https://summer.iscas.ac.cn/help/assets/student-rules.txt)
+学生参与活动之前请阅读[学生参与协议](https://summer.iscas.ac.cn/help/assets/student-rules.txt)，正式申请项目代表同意此协议
+
+学生中选后，发放中期奖金前，需在系统内下载，手签并扫描[学生参与协议-签字版](https://summer.iscas.ac.cn/help/assets/签字版-学生参与协议-CN-开源软件供应链点亮计划-暑期2021.)
 
 ## 面向哪些学生
 
