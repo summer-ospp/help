@@ -36,7 +36,7 @@
 | 028  | Nebula Graph            | Nebula Graph              | [link](https://nebula-graph.io)                        | 审核通过    |
 | 029  | Tiny Lab                | 泰晓科技                   | [link](http://tinylab.org)                             | 审核通过    |
 | 030  | Anthon Open Source Community   | 安同开源社区        | [link](https://aosc.io)                        | 审核通过    |
-| 031  | GoodERP                 | GoodERP开源俱乐部          | [link](http://gooderp.org)                        | 审核通过    |
+| 031  | GoodERP                 | GoodERP开源俱乐部          | [link](http://www.gooderp.org/)                        | 审核通过    |
 | 032  | EduOJ                   | EduOJ          | [link](https://github.com/EduOJ)                        | 审核通过    |
 | 033  | OneFlow                 | OneFlow          | [link](https://github.com/Oneflow-Inc)                        | 审核通过    |
 | 034  | China PostgreSQL association             | 中国开源软件推进联盟PostgreSQL分会       | [link](https://www.postgresqlchina.com/)               | 审核通过    |
