@@ -54,23 +54,19 @@
 
     导师奖金由银行转账方式形式发放，银行卡须为本人名下，届时组委会将向各位导师收集以下信息用于转账及中国税务管理机构审核：
 
-     - 收款银行名称及地址：
+     - Payee's Full Name
 
-     - 银行账号：
-
-     - Swiftcode：
-
-     - 收款人名称：
-
-     - 收款人地址：
-     
-     - 性别：
-     
-     - 护照号：
-     
-     - 出生日期：
+     - Mobile Number
     
-     - 国籍：
+     - Payee's Address
+
+     - Payee's Bank Name and Address
+
+     - Payee's Bank Account
+
+     - Swiftcode
+
+     - Payee's Address
 
       *注：以上为按现行的国际结算政策要求所需资料，活动组委会将采取合理的措施来保护隐私数据、个人身份信息和其他敏感资料
 
