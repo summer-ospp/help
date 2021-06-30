@@ -1,7 +1,5 @@
 # 导师指南
 
-导师参与活动之前请阅读：[导师参与协议](./assets/MENTOR-PARTICIPANT-AGREEMENT.txt)，学生中选后导师参与指导代表同意该协议。
-
 导师在学生结项后，发放奖金前，需在系统内下载、手签并扫描上传[签字版-导师参与协议](./assets/MENTOR-PARTICIPANT-AGREEMENT.pdf)
 
 ## 如何成为导师
