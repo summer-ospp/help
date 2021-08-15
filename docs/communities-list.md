@@ -107,7 +107,7 @@
 | 099  | Seata                   | Seata                           | [link]( https://seata.io/zh-cn/)                                  | 审核通过    |
 | 100  | OpenMS                  | OpenMS                          | [link]( https://www.openms.org)                                   | 审核通过    |
 | 101  | Toro unikernel          | Toro unikernel                  | [link]( https://www.torokernel.io)                                | 审核通过    |
-| 102  | OPEN AI LAB             | OPEN AI LAB                     | [link]( https://www.openailab.com)                                | 审核通过    |
+| 102  | T Engine                | T Engine                        | [link]( https://www.openailab.com)                                | 审核通过    |
 | 103  | Mars                    | Mars                            | [link]( https://docs.pymars.org/en/latest/)                       | 审核通过    |
 | 104  | Rocket Booster          | Rocket Booster                  | [link]( https://booster.js.org)                                   | 审核通过    |
 | 105  | Sureness                | Sureness社区                    | [link]( https://su.usthe.com/)                                     | 审核通过    |
