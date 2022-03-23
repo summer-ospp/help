@@ -1,6 +1,6 @@
 # 联系我们
 
-- 活动官网：<https://summer.iscas.ac.cn>
+- 活动官网：<https://summer-ospp.ac.cn>
 - 组委会联系邮箱：[summer@iscas.ac.cn](mailto:summer@iscas.ac.cn)
 
 ## 参与贡献
