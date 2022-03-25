@@ -201,11 +201,12 @@ iii. 组委会组织评审团，针对项目产出进行评审，并综合社区
 
    - Payee's Full Name
    - Gender
+   - ID Crad Number
    - Nationality
-   - Passport Number
    - Date of Birth
-   - Payee's Bank Name and Address
+   - Telephone Number
    - Payee's Address
+   - Payee's Bank Name and Address
    - Payee's Bank Account
    - Swiftcode
 
