@@ -48,7 +48,7 @@
 | 040  | dtm-labs | https://github.com/dtm-labs |
 | 041  | 安同开源社区（AOSC） | https://aosc.io/ |
 | 042  | ViewUI 开源社区 | https://www.iviewui.com/ |
-| 043| Apache Linkis | https://linkis.apache.org/ |
+| 043  | Apache Linkis | https://linkis.apache.org/ |
 | 044  | Julia中文社区 | https://discourse.juliacn.com/ |
 | 045  | Qiling Framework | https://github.com/qilingframework/qiling |
 | 046  | Universal OJ 开源社区 | https://github.com/UniversalOJ |
@@ -112,6 +112,5 @@
 | 104  | matrixone | https://github.com/matrixorigin/matrixone |
 | 105  | Karmada | https://karmada.io/ |
 | … | … | …  |
-
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，如果超过五个工作日没有得到组委会的回复，可发邮件至活动官方邮箱 org@summer-ospp.ac.cn 或社区联络邮件列表 ospp-orgcontacts@googlegroups.com 反馈问题。
