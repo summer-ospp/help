@@ -66,6 +66,9 @@
 | 058  | LF Edge eKuiper | https://www.lfedge.org/projects/ekuiper/ |
 | 059  | Joomla | https://www.joomla.org/ |
 | 060  | Project C | https://gitlab.com/alfredchen/projectc |
+| 061  | DatenLord | https://datenlord.github.io/en/home.html |
+| 062  | OI Wiki | https://about.oi-wiki.org/ |
+| 063  | spring-cloud-alibaba | https://github.com/alibaba/spring-cloud-alibaba |
 | … | … | …  |
 
 
