@@ -69,7 +69,19 @@
 | 061  | DatenLord | https://datenlord.github.io/en/home.html |
 | 062  | OI Wiki | https://about.oi-wiki.org/ |
 | 063  | spring-cloud-alibaba | https://github.com/alibaba/spring-cloud-alibaba |
+| 064  | redis | https://github.com/redis/redis |
+| 065  | 优麒麟 | https://www.ubuntukylin.com/index-cn.html |
+| 066  | Seata | https://seata.io/zh-cn/ |
+| 067  | Tarantool | https://www.tarantool.io/en/ |
+| 068  | milvus | https://www.milvus.io |
+| 069  | Apache wayang | https://wayang.apache.org/ |
+| 070  | Wechaty | https://wechaty.js.org/ |
+| 071  | OpenDigger | http://www.x-lab.info/open-digger/#/ |
+| 072  | JuiceFS | https://juicefs.com/ |
+| 073  | 飞浆PaddlePaddle | https://www.paddlepaddle.org.cn/ |
+| 074  | Emacs China | https://emacs-china.org/ |
+| 075  | HybridOS | https://hybridos.fmsoft.cn/ |
+| 076  | MindSpore | https://www.mindspore.cn/ |
 | … | … | …  |
-
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，如果超过五个工作日没有得到组委会的回复，可发邮件至活动官方邮箱 org@summer-ospp.ac.cn 或社区联络邮件列表 ospp-orgcontacts@googlegroups.com 反馈问题。
