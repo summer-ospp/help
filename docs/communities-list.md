@@ -111,6 +111,25 @@
 | 103  | Datafuse Labs | https://github.com/datafuselabs |
 | 104  | matrixone | https://github.com/matrixorigin/matrixone |
 | 105  | Karmada | https://karmada.io/ |
+| 106  | RIOS | https://rioslab.org/ |
+| 107  | TDengine | https://www.taosdata.com/ |
+| 108  | Apache Flink | https://flink.apache.org/ |
+| 109  | Cloudpods | https://www.cloudpods.org/zh/ |
+| 110  | xquic | https://github.com/alibaba/xquic |
+| 111  | Buddy Compiler | https://buddy-compiler.github.io/ |
+| 112  | Apache ECharts | https://echarts.apache.org/ |
+| 113  | 北京工业大学PLC编译器小组 | https://gitee.com/iec61131-plccompiler |
+| 114  | OpenMessaging | https://openmessaging.cloud/ |
+| 115  | EMQX | https://www.emqx.io/zh |
+| 116  | DevStream | https://www.devstream.io/ |
+| 117  | Alluxio | https://www.alluxio.io |
+| 118  | Dromara | https://dromara.org/ |
+| 119  | 中科大学生 Linux 用户协会 | https://lug.ustc.edu.cn/ |
+| 120  | LCUI | https://lcui.lc-soft.io |
+| 121  | DevLake | https://github.com/merico-dev/lake |
+| 122  | ChaosBlade | https://chaosblade.io/ |
+| 123  | Talent Plan | https://tidb.io/talent-plan |
+| 124  | Element Plus | https://element-plus.org/ |
 | … | … | …  |
 
 > 注：已报名的社区可能由于还处在组委会还在审核或者社区信息还在补充等原因而还未进行审核，如果超过五个工作日没有得到组委会的回复，可发邮件至活动官方邮箱 org@summer-ospp.ac.cn 或社区联络邮件列表 ospp-orgcontacts@googlegroups.com 反馈问题。
