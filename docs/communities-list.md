@@ -76,7 +76,7 @@
 | 071  | Wechaty | https://wechaty.js.org/ |
 | 072  | OpenDigger | http://www.x-lab.info/open-digger/#/ |
 | 073  | JuiceFS | https://juicefs.com/ |
-| 074  | 飞浆PaddlePaddle | https://www.paddlepaddle.org.cn/ |
+| 074  | 飞桨PaddlePaddle | https://www.paddlepaddle.org.cn/ |
 | 075  | Emacs China | https://emacs-china.org/ |
 | 076  | HybridOS | https://hybridos.fmsoft.cn/ |
 | 077  | MindSpore | https://www.mindspore.cn/ |
@@ -127,4 +127,3 @@
 | 122  | ChaosBlade | https://chaosblade.io/ |
 | 123  | Talent Plan | https://tidb.io/talent-plan |
 | 124  | Element Plus | https://element-plus.org/ |
-
