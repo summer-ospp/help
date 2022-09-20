@@ -182,7 +182,7 @@ iii. 组委会组织评审团，针对项目产出进行评审，并综合社区
 
    - Payee's Full Name
    - Gender
-   - ID Crad Number
+   - ID Card Number
    - Nationality
    - Date of Birth
    - Telephone Number
