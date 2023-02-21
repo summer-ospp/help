@@ -37,15 +37,12 @@ jobs:
           username: ${{ secrets.SWR_ACCESS_KEY_ID }}
           password: ${{ secrets.SWR_ACCESS_KEY_SECRET }}
 
-      - name: Add SHORT_SHA env property with commit short sha
-        run: echo "SHORT_SHA=`echo ${GITHUB_SHA} | cut -c1-8`" >> $GITHUB_ENV
-
       - name: Extract Docker metadata
         id: meta
         uses: docker/metadata-action@98669ae865ea3cffbcbaa878cf57c20bbf1c6c38
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
-          tags: ${{ env.SHORT_SHA }}
+          tags: ${{ github.sha }}
 
       - name: Build and push Docker image
         id: push-meta
@@ -65,7 +62,7 @@ jobs:
 
       - name: Build and push Docker image
         id: push-metb
-        uses: docker/build-push-action@ad44023a93711e3deb337508980b4b5e9bcdc5dc
+        uses: docker/build-push-action@v4.0.0
         with:
           context: .
           push: ${{ github.event_name != 'pull_request' }}
@@ -76,7 +73,7 @@ jobs:
         if: github.event_name != 'pull_request'
         uses: summer-ospp/ssh-action@v0.1.4
         env:
-          SHA: ${{ env.SHORT_SHA }}
+          SHA: ${{ github.sha }}
           IMAGE: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
         with:
           host: ${{ secrets.SSH_HOST }}
