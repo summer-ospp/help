@@ -7,7 +7,7 @@ on:
     branches: [ 2023 ]
 
 env:
-  REGISTRY: swr.ap-southeast-1.myhuaweicloud.com
+  REGISTRY: hub.oepkgs.net
 
   IMAGE_NAME: summer-ospp/help
 
@@ -34,8 +34,8 @@ jobs:
         uses: docker/login-action@28218f9b04b4f3f62068d7b6ce6ca5b26e35336c
         with:
           registry: ${{ env.REGISTRY }}
-          username: ${{ secrets.SWR_ACCESS_KEY_ID }}
-          password: ${{ secrets.SWR_ACCESS_KEY_SECRET }}
+          username: ${{ secrets.OEPKGS_USERNAME }}
+          password: ${{ secrets.OEPKGS_PASSWORD }}
 
       - name: Extract Docker metadata
         id: meta
