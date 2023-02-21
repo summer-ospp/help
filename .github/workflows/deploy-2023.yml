@@ -2,9 +2,9 @@ name: deploy
 
 on:
   push:
-    branches: [ 2022 ]
+    branches: [ 2023 ]
   pull_request:
-    branches: [ 2022 ]
+    branches: [ 2023 ]
 
 env:
   REGISTRY: swr.ap-southeast-1.myhuaweicloud.com
@@ -83,6 +83,6 @@ jobs:
           script_stop: true
           envs: SHA,IMAGE
           script: |
-            SHA=$SHA;IMAGE=$IMAGE;kubectl set image deployment/summer2022-help summer2022-help=$IMAGE:$SHA -n summer2022;
+            SHA=$SHA;IMAGE=$IMAGE;kubectl set image deployment/summer2023-help summer2023-help=$IMAGE:$SHA -n summer2023;
             sleep 20
-            kubectl get pod -n summer2022
+            kubectl get pod -n summer2023

@@ -32,6 +32,3 @@
 ## 社区导师的参与日程
 
 请参见 [导师指南](https://summer-ospp.ac.cn/help/mentor/)
-
-
-

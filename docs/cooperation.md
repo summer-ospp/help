@@ -16,5 +16,3 @@
 
 1. 在合作单位的网站、公众号、朋友圈、微信群基于活动官网信息宣传活动，活动官网：[https://summer-ospp.ac.cn](https://summer-ospp.ac.cn)。
 2. 其他推广本次活动的事项。
-
-
