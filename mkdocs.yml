@@ -14,7 +14,7 @@ theme:
   icon:
     repo: fontawesome/solid/link
   logo: assets/logo.svg
-  favicon: assets/favicon.jpg
+  favicon: assets/logo.svg
 
 extra:
   social:
