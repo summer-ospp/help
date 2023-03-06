@@ -76,19 +76,21 @@ iii. 项目开发结束后有一个月的项目 PR/MR 合并期；
 
 iv. 参考示例：
 
-    * 基础难度
-[示例 1](https://summer-ospp.ac.cn/#/org/prodetail/22b970142)
+  * 基础难度
 
-[示例 2](https://summer-ospp.ac.cn/#/org/prodetail/2298a0007)
+[示例 1](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970142)
 
-[示例 3](https://summer-ospp.ac.cn/#/org/prodetail/227cc0121)
+[示例 2](https://summer-ospp.ac.cn/2022/#/org/prodetail/2298a0007)
 
-    * 进阶难度
-[示例 1](https://summer-ospp.ac.cn/#/org/prodetail/22b970263)
+[示例 3](https://summer-ospp.ac.cn/2022/#/org/prodetail/227cc0121)
 
-[示例 2](https://summer-ospp.ac.cn/#/org/prodetail/22b970023)
+  * 进阶难度
 
-[示例 3](https://summer-ospp.ac.cn/#/org/prodetail/228d90270)
+[示例 1](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970263)
+
+[示例 2](https://summer-ospp.ac.cn/2022/#/org/prodetail/22b970023)
+
+[示例 3](https://summer-ospp.ac.cn/2022/#/org/prodetail/228d90270)
 
 v. 项目奖金来源说明：组委会支持项目的结项奖金由组委会提供，社区支持项目的结项奖金由社区提供。
 
