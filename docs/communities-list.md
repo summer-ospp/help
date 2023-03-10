@@ -20,7 +20,7 @@
 | 016  | Apache SeaTunnel(Incubating) |[https://seatunnel.apache.org](https://seatunnel.apache.org)|
 | 017  | NebulaGraph |[https://nebula-graph.com.cn/](https://nebula-graph.com.cn/)|
 | 018  | 禅道项目管理软件 |[https://www.zentao.net](https://www.zentao.net)|
-| 019  | RT-Thread |[www.rt-thread.org](www.rt-thread.org)|
+| 019  | RT-Thread |[www.rt-thread.org](https://www.rt-thread.org)|
 | 020  | Apache RocketMQ社区 |[https://rocketmq.apache.org/](https://rocketmq.apache.org/)|
 | 021  | 大数据流水线系统PiFlow |[http://piflow.mulanos.cn/](http://piflow.mulanos.cn/)|
 | 022  | dromara开源组织 |[https://dromara.org/](https://dromara.org/)|
