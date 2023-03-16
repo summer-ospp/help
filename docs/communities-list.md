@@ -29,4 +29,18 @@
 | 025  | PolarDB开源社区 |[https://www.polardbx.com/](https://www.polardbx.com/)|
 | 026  | 安全容器 Kata Containers |[https://katacontainers.io/](https://katacontainers.io/)|
 | 027  | Dragonfly |[https://d7y.io/zh/](https://d7y.io/zh/)|
+| 028  | DragonOS开源社区             | https://DragonOS.org                   |
+| 029  | Apache  Linkis 社区          | https://linkis.apache.org              |
+| 030  | 泰晓科技                     | http://tinylab.org                     |
+| 031  | Apache  ShardingSphere       | https://shardingsphere.apache.org/     |
+| 032  | OI  Wiki                     | https://about.oi-wiki.org/             |
+| 033  | Simple-XX                    | https://github.com/Simple-XX           |
+| 034  | Project  C                   | https://gitlab.com/alfredchen/projectc |
+| 035  | Apache  Kvrocks (Incubating) | https://kvrocks.apache.org             |
+| 036  | openKylin社区                | https://www.openkylin.top/             |
+| 037  | Nydus  镜像加速              | https://nydus.dev/                     |
+| 038  | OpenMessaging                | https://openmessaging.cloud/           |
+| 039  | BookOS操作系统               | www.book-os.com                        |
+| 040  | Nacos                        | https://nacos.io                               |
+| 041  | Sentinel                     | https://sentinelguard.io               |
 | ... |...|...|
