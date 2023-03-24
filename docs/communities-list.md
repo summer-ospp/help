@@ -43,4 +43,41 @@
 | 039  | BookOS操作系统               | www.book-os.com                        |
 | 040  | Nacos                        | https://nacos.io                               |
 | 041  | Sentinel                     | https://sentinelguard.io               |
+| 042  | eunomia-bpf                       | https://docs.eunomia.dev/                       |
+| 043  | MatrixOne                         | https://matrixorigin.cn/                        |
+| 044  | Alluxio                           | https://www.alluxio.io/                         |
+| 045  | MOSN  社区                        | https://mosn.io/                                |
+| 046  | HertzBeat                         | https://hertzbeat.com                           |
+| 047  | WasmEdge                          | https://wasmedge.org/                           |
+| 048  | NoneBot                           | https://nonebot.dev                             |
+| 049  | xmake                             | https://xmake.io                                |
+| 050  | OpenMMLab  浦视                   | https://openmmlab.com/                          |
+| 051  | StoneDB                           | https://stonedb.io/zh/                          |
+| 052  | Ascensio  System SIA              | https://www.onlyoffice.com/                     |
+| 053  | SOFAStack  社区                   | https://www.sofastack.tech/                     |
+| 054  | Volcano社区                       | https://volcano.sh/zh/                          |
+| 055  | Apache  HugeGraph                 | https://hugegraph.apache.org/cn/                |
+| 056  | 盛派开发者社区                    | https://weixin.senparc.com/                     |
+| 057  | Taichi                            | https://taichi-lang.cn                          |
+| 058  | Excelize                          | https://xuri.me/excelize                        |
+| 059  | OpenPPL                           | https://openppl.ai/                             |
+| 060  | CubeFS                            | https://cubefs.io/                              |
+| 061  | Linux内核之旅开源社区             | http://kerneltravel.net/                        |
+| 062  | DatenLord                         | https://datenlord.github.io                     |
+| 063  | 清华大学  TUNA 协会               | https://tuna.moe                                |
+| 064  | 龙蜥社区OpenAnolis                | https://openanolis.cn                           |
+| 065  | 飞桨PaddlePaddle                  | https://www.paddlepaddle.org.cn/                |
+| 066  | Apollo开源社区                    | https://www.apolloconfig.com/                   |
+| 067  | Arthas                            | https://arthas.aliyun.com/                      |
+| 068  | GraphScope                        | https://github.com/alibaba/graphscope           |
+| 069  | LF  Edge eKuiper                  | https://ekuiper.org                             |
+| 070  | OpenSumi                          | https://opensumi.com/zh                         |
+| 071  | MaxKey单点登录社区                | http://www.maxkey.top                           |
+| 072  | RISC-V国际开源实验室（RIOS  Lab） | https://rioslab.org                             |
+| 073  | Buddy  Compiler                   | https://buddy-compiler.github.io/               |
+| 074  | OpenAtom  OpenHarmony             | https://www.openharmony.cn/mainPlay             |
+| 075  | Inclavare  Containers             | https://inclavare-containers.io                 |
+| 076  | Karmada                           | https://karmada.io/                             |
+| 077  | Spring  Cloud Alibaba             | https://github.com/alibaba/spring-cloud-alibaba |
+| 078  | Vineyard                          | https://v6d.io                                  |
 | ... |...|...|
