@@ -80,4 +80,58 @@
 | 076  | Karmada                           | https://karmada.io/                             |
 | 077  | Spring  Cloud Alibaba             | https://github.com/alibaba/spring-cloud-alibaba |
 | 078  | Vineyard                          | https://v6d.io                                  |
-| ... |...|...|
+| 079  | 北京大学  Linux 俱乐部            | https://lcpu.club                                       |
+| 080  | smartboot                         | https://smartboot.tech/                                 |
+| 081  | PikaPython                        | http://pikapython.com/                                  |
+| 082  | Koordinator                       | https://koordinator.sh/                                 |
+| 083  | Xorbits                           | https://xorbits.cn/                                     |
+| 084  | OpenGoofy开源社区                 | https://github.com/opengoofy                            |
+| 085  | AIOps社区                         | https://www.cloudwise.ai/                               |
+| 086  | Xtreme1                           | https://www.xtreme1.io/                                 |
+| 087  | Pravega                           | https://cncf.pravega.io                                 |
+| 088  | 格睿科技                          | https://greptime.com/                                   |
+| 089  | Higress                           | https://higress.io                                      |
+| 090  | labring                           | https://sealos.io/                                      |
+| 091  | GreatSQL社区                      | https://greatsql.cn/                                    |
+| 092  | Koishi                            | https://koishi.chat                                     |
+| 093  | KusionStack                       | https://kusionstack.io/                                 |
+| 094  | Solon                             | https://solon.noear.org/                                |
+| 095  | 苞米豆                            | https://baomidou.com                                    |
+| 096  | RustDesk                          | https://rustdesk.com/zh/                                |
+| 097  | SciSharp  STACK                   | http://scisharpstack.org/                               |
+| 098  | Rainbond                          | https://www.rainbond.com/                               |
+| 099  | SREWorks                          | https://sreworks.cn/                                    |
+| 100  | freeCodeCamp                      | http://chinese.freecodecamp.org/                        |
+| 101  | StarRocks                         | https://www.starrocks.io/                               |
+| 102  | openGemini                        | http://opengemini.org                                   |
+| 103  | Jina  AI                          | https://jina.ai                                         |
+| 104  | Hypercrx                          | https://crx.hypertrons.io/                              |
+| 105  | Joomla!                           | https://www.joomla.org/                                 |
+| 106  | Cloudpods                         | https://www.cloudpods.org                               |
+| 107  | Pika开源社区                      | https://atomgit.com/OpenAtomFoundation/pika             |
+| 108  | DLRover                           | https://github.com/intelligent-machine-learning/dlrover |
+| 109  | 铜锁                              | https://www.tongsuo.net/                                |
+| 110  | Apache  StreamPipes               | https://streampipes.apache.org/                         |
+| 111  | 安同开源社区（AOSC）              | https://aosc.io/                                        |
+| 112  | 昇思MindSpore                     | www.mindspore.cn                                        |
+| 113  | Databend                          | https://databend.rs                                     |
+| 114  | Openbiox                          | https://openbiox.org                                    |
+| 115  | Apache  OpenDAL (Incubating)      | https://opendal.apache.org/                             |
+| 116  | Next.ID                           | https://next.id/                                        |
+| 117  | AO.space（傲空间）                | https://ao.space/                                       |
+| 118  | 聚元PolyOS操作系统                | https://isrc.iscas.ac.cn/riscv-raios/docs/              |
+| 119  | OpenBlock                         | https://mlzone.areyeshot.com                            |
+| 120  | OpenSergo                         | https://opensergo.io/zh-cn/                             |
+| 121  | Memory  Management Toolkit (MMTk) | https://www.mmtk.io/                                    |
+| 122  | Milvus                            | https://www.milvus.io/                                  |
+| 123  | Towhee                            | https://towhee.io/                                      |
+| 124  | sealer                            | http://sealer.cool/                                     |
+| 125  | OpenDigger                        | http://www.x-lab.info/open-digger/#/                    |
+| 126  | CodePod  Inc.                     | https://codepod.io                                      |
+| 127  | RVSmartPorting                    | https://gitee.com/rvsmart-porting                       |
+| 128  | 观测云                            | www.guance.com                                          |
+| 129  | Tair                              | https://github.com/alibaba/TairHash                     |
+| 130  | 墨客实验室                        | https://gitee.com/XmacsLabs                             |
+| 131  | OpenTiny开源项目                  | https://opentiny.design/                                |
+| 132  | EROFS文件系统社区                 | https://lists.ozlabs.org/listinfo/linux-erofs           |
+| 133  | AliceBot                          | https://alicebot.dev                                    |
