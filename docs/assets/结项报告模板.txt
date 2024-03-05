@@ -1,4 +1,5 @@
 # 结项报告模板
+上传时请将文件命名为：学生姓名+项目编号+结项报告
 
 ## 项目信息
 
@@ -8,8 +9,6 @@
 
 ## 项目总结
 
-- 项目成果：
-  *描述项目成果，提供最终向社区提交的相关信息*
 - 已完成工作：
   *根据原定方案和时间规划，描述当前已有的工作成果，应与项目申请书方案内容一一对应*
 - 遇到的问题及解决方案：
@@ -18,3 +17,29 @@
   *对应的测试验证结果*
 - 后续工作安排：
   *是否需要调整工作计划等*
+
+Tips: 鼓励学生在模板的基础上提供更加丰富的内容:)
+
+
+# Project Report Template
+
+When uploading, please name the file as: Student Name + Project Number + Final Report
+
+## Project Information
+
+- Project Name：
+- Scheme Description：
+- Time Planning：
+
+## Project Summary
+
+- Completed Work ：
+  *Describe your work according to the original plan. It should correspond to the project application.*
+- Problem and Solution：
+  *Focus on describing the summary and experience*
+- Test Cases: 
+  *Present the corresponding test validation results*
+- Subsequent Work Arrangement：
+  *Demonstrate the progress and whether you need to adjust the plan*
+
+Tips: We encourage you enrich the content on the basis of the template:)
