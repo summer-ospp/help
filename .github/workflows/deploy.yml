@@ -2,9 +2,9 @@ name: deploy
 
 on:
   push:
-    branches: [ 2023 ]
+    branches: [ 2024 ]
   pull_request:
-    branches: [ 2023 ]
+    branches: [ 2024 ]
 
 env:
   REGISTRY: hub.oepkgs.net
@@ -83,6 +83,6 @@ jobs:
           script_stop: true
           envs: SHA,IMAGE
           script: |
-            SHA=$SHA;IMAGE=$IMAGE;kubectl set image deployment/summer2023-help summer2023-help=$IMAGE:$SHA -n summer2023;
+            SHA=$SHA;IMAGE=$IMAGE;kubectl set image deployment/summer2024-help summer2024-help=$IMAGE:$SHA -n summer2024;
             sleep 20
-            kubectl get pod -n summer2023
+            kubectl get pod -n summer2024
